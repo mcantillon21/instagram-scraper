@@ -1,4 +1,4 @@
-# Instagram Video Scraper
+# Scraper for Techshare
 
 A Python script to download videos from public Instagram accounts.
 
